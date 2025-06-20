@@ -28,4 +28,4 @@ index.php-halaman utama
 
 ## Kontributor
 
-[Nama Anda](https://github.com/username)
+[Kevin Jefri Fourland ](https://github.com/KevinFourland)
