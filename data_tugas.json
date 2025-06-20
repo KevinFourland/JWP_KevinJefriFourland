@@ -1,0 +1,23 @@
+[
+    {
+        "identifier": "task_68551210c3b0d",
+        "judul": "wd",
+        "uraian": "",
+        "waktu_buat": "2025-06-20 09:47:28",
+        "status_selesai": false
+    },
+    {
+        "identifier": "task_68550d7c75690",
+        "judul": "ipa",
+        "uraian": "eafaf",
+        "waktu_buat": "2025-06-20 09:27:56",
+        "status_selesai": true
+    },
+    {
+        "identifier": "task_685512dd1a9d3",
+        "judul": "kevin",
+        "uraian": "",
+        "waktu_buat": "2025-06-20 09:50:53",
+        "status_selesai": true
+    }
+]
